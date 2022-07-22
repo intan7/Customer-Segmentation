@@ -167,7 +167,7 @@ model.compile(optimizer='adam',
 model.save(BEST_MODEL_PATH)
 
 hist = model.fit(X_train, y_train, 
-                 epochs=50,
+                 epochs=20,
                  validation_data=(X_test, y_test),
                  callbacks=[tensorboard_callback])
 #%% Model Evaluation
