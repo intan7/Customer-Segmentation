@@ -23,13 +23,13 @@ may help to expand and grow the bank’s revenue.
 >> ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
 # Model
-![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/model.png)
+![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/static/model.png)
 
 
 # Results
 The accuracy of the model is 91%. However, since the data is inbalanced, the accuracy for the subscribed is not as accurate as not subscribed. 
 
-![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/tensorboard_ss.jpg)
+![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/static/tensorboard_ss.jpg)
 ![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/static/confusion_matrix.jpg)
 ![alt text](https://github.com/intan7/Customer-Segmentation/blob/main/static/classification_rep.jpg)
 
